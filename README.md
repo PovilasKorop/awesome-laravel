@@ -403,6 +403,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Voyager](https://the-control-group.github.io/voyager/)
 * [Laravel REST API Boilerplate](https://github.com/francescomalatesta/laravel-api-boilerplate-jwt)
 * [WebEd CMS](https://github.com/sgsoft-studio/webed)
+* [Quick Admin Panel](https://quickadminpanel.com)
 
 ## Codebases for Reference
 
