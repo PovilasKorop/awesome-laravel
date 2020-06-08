@@ -446,7 +446,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 ## Podcasts
 
-* [The Laravel Podcast](http://www.laravelpodcast.com/)
+* [The Laravel Podcast](http://www.laravelpodcastf.com/)
 * [The Laravel News Podcast](https://laravel-news.com/podcast/ )
 * [The Laracasts Snippet](https://laracasts.simplecast.fm/)
 * [Hecho en Laravel (Spanish)](http://hechoenlaravel.com)
